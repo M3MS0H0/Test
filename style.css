@@ -1,13 +1,18 @@
 body {
   background-color: DodgerBlue;
+  font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Calisto MT, Times New Roman, serif;
 }
 
 h1 {
   color: white;
   text-align: center;
+
+  font-size: 80px;
+  font-variant: small-caps;
 }
 
 h2 {
   color: white;
+  font-size: 30px;
   text-align: center;
 }
